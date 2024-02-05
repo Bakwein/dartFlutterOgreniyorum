@@ -6,4 +6,7 @@ void main()
   yazi = "Alo";
   print(yazi); // Alo
 
+  String? deneme;
+  print(deneme);
+
 }
